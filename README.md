@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋I'm Eunice Serwaa Addae.
 
 # 💫 About Me:
 Data Analyst 📊 | Business Analyst 📈 | Technical Builder 🛠️<br><br>Focused on analytics 📉, dashboards 📊, AI 🤖, and deployment 🚀<br><br>I enjoy using Excel 📗, SQL 🗄️, Python 🐍, and Power BI 📊<br>to turn data into practical insights 💡, useful tools 🔧, and decision-driven solutions 🎯
